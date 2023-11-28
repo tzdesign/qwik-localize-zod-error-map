@@ -78,3 +78,8 @@ body {
   padding: 0;
   line-height: inherit;
 }
+
+.center{
+  display:inline-block;
+  margin:auto;
+}
